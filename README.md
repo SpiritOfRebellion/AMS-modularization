@@ -1,7 +1,7 @@
 # Adventure Map Spells
 
-[!NOTE]
-Currenlty no sounds in the mod.
+> [!NOTE]
+> Currenlty no sounds in the mod.
 
 ![Spells](https://raw.githubusercontent.com/vcmi-mods/adventure-spells-pack/refs/heads/vcmi-1.7/screenshots/screen05.png)
 
