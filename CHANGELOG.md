@@ -9,24 +9,26 @@
 ---
 
 ## Path Fixes
-- [ ] **Spell Paths**: Resolved incorrect spell paths. (stalled)
-- [ ] **Icon Paths**: Corrected various icon paths. (stalled)
+- [ ] **Spell Paths**: Resolved incorrect spell paths. (work in progress)
+- [ ] **Icon Paths**: Corrected various icon paths. (work in progress)
 - [ ] **Translation Paths**: Fixed issues with translation paths. (work in progress)
 
 ---
 
 ## Documentation Updates
-- [ ] Added a **README.md** to the GitHub repository.
-- [ ] Included documentation for the mod in the VCMI Launcher (in English).
+- [x] Added a **README.md** to the GitHub repository.
+- [x] Included documentation for the mod in the VCMI Launcher (in English).
 - [x] Created dedicated folders for sound assets.
 
 ---
 
-## TODOs
-- [ ] **Fix Warnings and Errors** in the log file (not attributed to my work):
-	`WARN [initialize] mod - Spell: target type empty - assumed NO_TARGET.`
-	`ERROR [initialize] mod - Spell: no positiveness specified, assumed NEUTRAL.`
+## Bug fixes
+- [ ] `WARN [initialize] mod - Spell: target type empty - assumed NO_TARGET.`
+- [ ] `ERROR [initialize] mod - Spell: no positiveness specified, assumed NEUTRAL.`
 
+---
+
+## Other
 - [ ] **Decide on Comments**: Consider whether to remove deprecated aiValue comments.
 
 ---
