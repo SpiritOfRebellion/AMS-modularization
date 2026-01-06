@@ -22,10 +22,10 @@
 			"positive" : true
 		},
 		"graphics" : {
-			"iconBook" : "spellBook",
-			"iconScroll" : "spellScroll",
-			"iconScenarioBonus" : "spellBonus",
-			"iconEffect" : "spellEffect"
+			"iconBook" : "negotiations/spellBook",
+			"iconScroll" : "negotiations/spellScroll",
+			"iconScenarioBonus" : "negotiations/spellBonus",
+			"iconEffect" : "negotiations/spellEffect"
 		},
 		"sounds" : {
 			"cast" : "mm8/heal"

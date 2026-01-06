@@ -13,6 +13,6 @@
   },
   "keepDisabled": false,
   "spells": [
-    "config/spells/riseDemons"
+    "config/spells/raiseDemons"
   ]
 }

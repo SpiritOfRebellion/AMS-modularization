@@ -22,10 +22,10 @@
 			"positive" : true
 		},
 		"graphics" : {
-			"iconBook" : "spellBook",
-			"iconScroll" : "spellScroll",
-			"iconScenarioBonus" : "spellBonus",
-			"iconEffect" : "spellEffect"
+			"iconBook" : "empathy/spellBook",
+			"iconScroll" : "empathy/spellScroll",
+			"iconScenarioBonus" : "empathy/spellBonus",
+			"iconEffect" : "empathy/spellEffect"
 		},
 		"sounds" : {
 			"cast" : "mm6/65psychicshock02"

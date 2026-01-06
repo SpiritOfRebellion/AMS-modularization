@@ -23,10 +23,10 @@
 			"positive" : true
 		},
 		"graphics" : {
-			"iconBook" : "spellBook",
-			"iconScroll" : "spellScroll",
-			"iconScenarioBonus" : "spellBonus",
-			"iconEffect" : "spellEffect"
+			"iconBook" : "arcaneProtection/spellBook",
+			"iconScroll" : "arcaneProtection/spellScroll",
+			"iconScenarioBonus" : "arcaneProtection/spellBonus",
+			"iconEffect" : "arcaneProtection/spellEffect"
 		},
 		"sounds" : {
 			"cast" : "mm8/Fate"
