@@ -1,3 +1,5 @@
+# VERSION 1.5
+
 ## Modularization
 - [x] Spells are now fully "pickable" in the Launcher.
 
@@ -35,4 +37,14 @@
 
 ## Note
 While working on the project, I noticed that naming files like `spellIcon.png` instead of `spellIconBenediction.png` could create simpler and more recognizable patterns.
+
+## Future changes - make a submod:
+
+- [ ] spells duration for 7 days
+- [ ] spells negates each other to avoid it's cumulation
+- [ ] spells costs knowledge or lowers maximum mana
+- [ ] create cancelation spell
+- [ ] readjust spells cost
+
+Ustal co należy zrobić z wersją, najniższa była 1.4
 

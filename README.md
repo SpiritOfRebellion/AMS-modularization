@@ -3,6 +3,9 @@
 > [!NOTE]
 > Currenlty no sounds in the mod.
 
+> [!WARNING]
+> Known issue: [#6659](https://github.com/vcmi/vcmi/issues/6659)
+
 ![Spells](https://raw.githubusercontent.com/vcmi-mods/adventure-spells-pack/refs/heads/vcmi-1.7/screenshots/screen05.png)
 
 # Features Overview
