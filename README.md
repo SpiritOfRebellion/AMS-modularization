@@ -53,7 +53,7 @@
 
 # Known Issues
 
-> ![Warning] 
+> [!IMPORTANT] 
 > Currently no sounds in the mod; 
 > Lacks indication that spells are in use the unit window.
 > Casts per day bug: [#6659](https://github.com/vcmi/vcmi/issues/6659).
@@ -119,9 +119,9 @@ json_data='{
 
 1. Create an optionable submod:
 
-- [ ] spells duration for 7 days
-- [ ] spells negates each other to avoid it's cumulation
-- [ ] spells costs knowledge or lowers maximum mana
+- [ ] adjust spells' duration for 7 days
+- [ ] spells negate each other to avoid it's cumulation
+- [ ] spells' costs knowledge or lowers maximum mana amount
 - [ ] create cancelation spell
 - [ ] readjust spells cost
 
@@ -129,11 +129,11 @@ json_data='{
 
 - [ ] add sounds
 
-3. Bug Fixes
+3. Bug Fixes (see client log)
 
 - [ ] `WARN [initialize] mod - Spell: target type empty - assumed NO_TARGET.`
 - [ ] `ERROR [initialize] mod - Spell: no positiveness specified, assumed NEUTRAL.`
-- [ ] redundancy in target types (see client log)
+- [ ] redundancy in target types
 
 # Changelog
 
