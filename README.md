@@ -60,11 +60,11 @@
 
 1. Create an optionable submod:
 
-- [ ] adjust spells' duration for 7 days
-- [ ] spells negate each other to avoid it's cumulation
-- [ ] spells cost knowledge or lowers maximum mana amount
-- [ ] create cancelation spell
-- [ ] readjust spells cost
+- [ ] consider to adjust spells' duration for 7 days
+- [ ] spells should negate each other to avoid cumulation effect
+- [ ] consider spells' cost in knowledge points or maximum mana amount
+- [ ] consider to create spell for cancelation
+- [ ] readjust spells' cost
 
 2. Sounds:
 
@@ -75,6 +75,10 @@
 - [ ] `WARN [initialize] mod - Spell: target type empty - assumed NO_TARGET.`
 - [ ] `ERROR [initialize] mod - Spell: no positiveness specified, assumed NEUTRAL.`
 - [ ] redundancy in target types
+
+4. Different organization
+
+- [ ] Consider withdrawing the separation of mods into magic school catalogs, as new magic schools, let's say Demonology or Necromancy, may appear. The current division will make further edits harder. A spell's school should be in description. 
 
 # Changelog
 
@@ -91,10 +95,10 @@
 
 ### Path Fixes
 
-- [x] **Spell Paths:** Resolved incorrect spell paths. (work in progress)
-- [x] **Icon Paths:** Corrected various icon paths. (work in progress)
-- [x] **Translation Paths:** Fixed issues with translation paths. (work in progress)
-
+- [x] Configs
+- [x] Spells
+- [x] Icons
+- [x] Translations
 
 ### Documentation
 
