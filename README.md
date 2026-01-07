@@ -4,7 +4,6 @@
 - [Known Issues](#known-issues)
 - [TODOs](#todos)
 - [Changelog](#changelog)
-- [For Modders](#for-modders)
 
 ---
 
