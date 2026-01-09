@@ -28,7 +28,7 @@
     	"iconEffect": "deadLuck/spellEffect"
     },
     "sounds": {
-      "cast": "mm6/82destroyundead03"
+      "cast": "sorDeadLuck"
     },
     "targetType": "NO_TARGET",
     "levels": {

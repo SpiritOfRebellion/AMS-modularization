@@ -29,7 +29,7 @@
     	"iconEffect": "powerOfStone/spellEffect"
     },
     "sounds": {
-      "cast": "MapSpells/Metal_Hit_Flesh1"
+      "cast": "sorPowerOfStone"
     },
     "targetType": "NO_TARGET",
     "levels": {

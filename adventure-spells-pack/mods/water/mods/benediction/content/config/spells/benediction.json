@@ -28,7 +28,7 @@
 		  "iconEffect": "benediction/spellEffect"
     },
     "sounds": {
-      "cast": "mm6/56meditation03"
+      "cast": "sorBenediction"
     },
     "targetType": "NO_TARGET",
     "levels": {

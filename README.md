@@ -49,35 +49,22 @@
 
 # Known Issues
 
-- Currently no sounds in the mod; 
 - Lacks indication in the unit window that spells are in use;
 - Casts per day bug: [#6659](https://github.com/vcmi/vcmi/issues/6659).
 
 ---
 
-## TODOs
+## TODO
 
-1. Create an optionable submod:
-
-- [ ] consider to adjust spells' duration for 7 days
-- [ ] spells should negate each other to avoid cumulation effect
-- [ ] consider spells' cost in knowledge points or maximum mana amount
-- [ ] consider to create spell for cancelation
-- [ ] readjust spells' cost
-
-2. Sounds:
-
-- [ ] add sounds
-
-3. Bug Fixes (see client log)
+1. Bug Fixes (see client log)
 
 - [ ] `WARN [initialize] mod - Spell: target type empty - assumed NO_TARGET.`
 - [ ] `ERROR [initialize] mod - Spell: no positiveness specified, assumed NEUTRAL.`
 - [ ] redundancy in target types
 
-4. Different organization
+2. Different file organization method
 
-- [ ] Consider withdrawing the separation of mods into magic school catalogs, as new magic schools, let's say Demonology or Necromancy, may appear. The current division will make further edits harder. A spell's school should be in description. 
+- [ ] Consider withdrawing the separation of mods into magic school catalogs, as new magic schools, let's say Demonology or Necromancy, may appear. The current division will make further rearrangements harder. The place for spell's school may be in description. 
 
 # Changelog
 
@@ -85,8 +72,16 @@
 
 ### Modularization
 
-- [x] Spells are now fully "pickable" in the Launcher. The main change of the update.
+- [x] Spells are now fully "pickable" in the Launcher.
 
+### Casting sounds
+
+- [x] Added 24 .ogg files.
+
+### Documentation
+
+- [x] Added a solid **README.md** to the GitHub repository.
+- [x] Included html documentation for the mod in the VCMI Launcher (in English).
 
 ### Naming Conventions
 
@@ -98,14 +93,5 @@
 - [x] Spells
 - [x] Icons
 - [x] Translations
-
-### Documentation
-
-- [x] Added a **README.md** to the GitHub repository.
-- [x] Included documentation for the mod in the VCMI Launcher (in English).
-
-### Other
-
-- [x] Created folders for sound assets.
 
 ---

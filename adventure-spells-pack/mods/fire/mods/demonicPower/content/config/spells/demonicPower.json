@@ -28,7 +28,7 @@
 		  "iconEffect": "demonicPower/spellEffect"
     },
     "sounds": {
-      "cast": "mm6/75power03"
+      "cast": "sorDemonicPower"
     },
     "targetType": "NO_TARGET",
     "levels": {

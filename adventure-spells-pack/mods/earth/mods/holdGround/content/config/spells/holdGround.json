@@ -29,7 +29,7 @@
     	"iconEffect": "holdGround/spellEffect"
     },
     "sounds": {
-      "cast": "mm6/94dayofprotection03"
+      "cast": "sorHoldGround"
     },
     "targetType": "NO_TARGET",
     "levels": {

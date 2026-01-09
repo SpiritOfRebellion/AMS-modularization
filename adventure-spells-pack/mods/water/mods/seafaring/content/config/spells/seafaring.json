@@ -28,7 +28,7 @@
 		  "iconEffect": "seafaring/spellEffect"
     },
     "sounds": {
-      "cast": "hmm6/Ship_GateStart"
+      "cast": "sorSeafaring"
     },
     "targetType": "NO_TARGET",
     "levels": {

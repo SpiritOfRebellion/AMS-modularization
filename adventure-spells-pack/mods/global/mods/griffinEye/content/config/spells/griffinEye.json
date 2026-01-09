@@ -28,7 +28,7 @@
 			"iconEffect" : "griffinEye/spellEffect"
 		},
 		"sounds" : {
-			"cast" : "mm6/59precision03"
+			"cast" : "sorGriffinEye"
 		},
 		"targetType" : "NO_TARGET",
 		"levels" : {

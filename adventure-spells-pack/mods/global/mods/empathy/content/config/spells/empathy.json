@@ -28,7 +28,7 @@
 			"iconEffect" : "empathy/spellEffect"
 		},
 		"sounds" : {
-			"cast" : "mm6/65psychicshock02"
+			"cast" : "sorEmpathy"
 		},
 		"targetType" : "NO_TARGET",
 		"levels" : {

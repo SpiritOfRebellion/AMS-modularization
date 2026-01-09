@@ -28,7 +28,7 @@
 		  "iconEffect": "raiseDemons/spellEffect"
     },
     "sounds": {
-      "cast": "mm8/53raisedead03"
+      "cast": "sorRaiseDemons"
     },
     "targetType": "NO_TARGET",
     "levels": {

@@ -27,7 +27,7 @@
     	"iconEffect": "divineSpirit/spellEffect"
     },
     "sounds": {
-      "cast": "mm6/57removefear03"
+      "cast": "sorDivineSpirit"
     },
     "targetType": "NO_TARGET",
     "levels": {

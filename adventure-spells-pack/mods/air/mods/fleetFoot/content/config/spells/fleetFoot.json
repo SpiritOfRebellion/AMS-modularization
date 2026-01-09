@@ -28,7 +28,7 @@
 		  "iconEffect": "fleetFoot/spellEffect"
     },
     "sounds": {
-      "cast": "mm6/73speed03"
+      "cast": "sorFleetFoot"
     },
     "targetType": "NO_TARGET",
     "levels": {

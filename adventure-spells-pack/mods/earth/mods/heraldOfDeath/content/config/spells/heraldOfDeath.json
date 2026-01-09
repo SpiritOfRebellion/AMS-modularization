@@ -28,7 +28,7 @@
     	"iconEffect": "heraldOfDeath/spellEffect"
     },
     "sounds": {
-      "cast": "mm6/82destroyundead01"
+      "cast": "sorHeraldOfDeath"
     },
     "targetType": "NO_TARGET",
     "levels": {

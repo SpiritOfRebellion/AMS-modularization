@@ -28,7 +28,7 @@
 			"iconEffect" : "negotiations/spellEffect"
 		},
 		"sounds" : {
-			"cast" : "mm8/heal"
+			"cast" : "sorNegotiations"
 		},
 		"targetType" : "NO_TARGET",
 		"levels" : {

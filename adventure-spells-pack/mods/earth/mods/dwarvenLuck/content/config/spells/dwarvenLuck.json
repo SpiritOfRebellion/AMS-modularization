@@ -28,7 +28,7 @@
 		  "iconEffect": "dwarvenLuck/spellEffect"
     },
     "sounds": {
-      "cast": "mm6/harp"
+      "cast": "sorDwarvenLuck"
     },
     "targetType": "NO_TARGET",
     "levels": {

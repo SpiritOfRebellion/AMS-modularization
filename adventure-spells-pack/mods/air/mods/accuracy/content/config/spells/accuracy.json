@@ -33,7 +33,7 @@
 		  "iconEffect": "accuracy/spellEffect"
     },
     "sounds": {
-      "cast": "Magic/Storm"
+      "cast": "sorAccuracy"
     },
     "targetType": "NO_TARGET",
     "levels": {

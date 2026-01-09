@@ -29,7 +29,7 @@
 		  "iconEffect": "shatteringStrike/spellEffect"
     },
     "sounds": {
-      "cast": "mm6/39Blades02"
+      "cast": "sorShatteringStrike"
     },
     "targetType": "NO_TARGET",
     "levels": {

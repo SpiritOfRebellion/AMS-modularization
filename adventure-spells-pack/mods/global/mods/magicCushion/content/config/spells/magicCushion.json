@@ -28,7 +28,7 @@
 			"iconEffect" : "magicCushion/spellEffect"
 		},
 		"sounds" : {
-			"cast" : "Magic/LightCure"
+			"cast" : "sorMagicCushion"
 		},
 		"targetType" : "NO_TARGET",
 		"levels" : {

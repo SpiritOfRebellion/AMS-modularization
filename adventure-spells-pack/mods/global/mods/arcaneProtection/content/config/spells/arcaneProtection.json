@@ -29,7 +29,7 @@
 			"iconEffect" : "arcaneProtection/spellEffect"
 		},
 		"sounds" : {
-			"cast" : "mm8/Fate"
+			"cast" : "sorArcaneProtection"
 		},
 		"targetType" : "NO_TARGET",
 		"levels" : {

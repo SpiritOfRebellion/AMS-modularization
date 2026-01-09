@@ -28,7 +28,7 @@
 		  "iconEffect": "deathCall/spellEffect"
     },
     "sounds": {
-      "cast": "Magic/DeathRipple"
+      "cast": "sorDeathCall"
     },
     "targetType": "NO_TARGET",
     "levels": {

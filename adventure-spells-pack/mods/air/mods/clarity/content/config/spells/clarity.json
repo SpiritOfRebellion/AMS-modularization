@@ -28,7 +28,7 @@
 		  "iconEffect": "clarity/spellEffect"
     },
     "sounds": {
-      "cast": "mm6/45GuidingLight01"
+      "cast": "sorClarity"
     },
     "targetType": "NO_TARGET",
     "levels": {

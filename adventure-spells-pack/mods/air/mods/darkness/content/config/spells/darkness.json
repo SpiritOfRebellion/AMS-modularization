@@ -28,7 +28,7 @@
 		  "iconEffect": "darkness/spellEffect"
     },
     "sounds": {
-      "cast": "mm6/53raisedead03"
+      "cast": "sorDarkness"
     },
     "targetType": "NO_TARGET",
     "levels": {

@@ -28,7 +28,7 @@
 		  "iconEffect": "powerOfHaste/spellEffect"
     },
     "sounds": {
-      "cast": "mm6/73speed03"
+      "cast": "sorPowerOfHaste"
     },
     "targetType": "NO_TARGET",
     "levels": {

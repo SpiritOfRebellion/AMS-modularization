@@ -28,7 +28,7 @@
 		  "iconEffect": "channelPower/spellEffect"
     },
     "sounds": {
-      "cast": "mm6/16featherfall03"
+      "cast": "sorChannelPower"
     },
     "targetType": "NO_TARGET",
     "levels": {
